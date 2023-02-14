@@ -8,5 +8,6 @@ If you are to use a number smaller than 8 or larger than 128, or use a character
 
 # Example
 
-![PassGenExample]./assets/PassGenExample.png
-![PassGenExample2]./assets/PassGenExample2.png
+![PassGenExample](./assets/PassGenExample.png)
+
+![PassGenExample2](./assets/PassGenExample2.png)
