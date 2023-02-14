@@ -14,7 +14,7 @@ function generatePassword() {
   console.log("Upper Letters: " + lettersUpper + ".");
   console.log("Numbers: " + numbers + ".");
   console.log("Special Characters: " + special + ".");
-  
+
   //This variable is a key to the upcoming while loop, and sets passlength to a usable int
   var whileKey = false;
 
